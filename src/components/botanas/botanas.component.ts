@@ -29,10 +29,10 @@ export class BotanasComponent {
       imageUrl: 'assets/ceviche_hero.jpg'
     },
     {
-      name: 'Ceviche de la Casa',
+      name: 'Camarones al ajo',
       price: '0.00 (Incluido con tus bebidas)',
-      description: 'El mejor pescado con ensalada y el sazón de la casa',
-      imageUrl: 'assets/ceviche_hero.jpg'
+      description: 'Lo mejor de la comida china y todo su sabor',
+      imageUrl: 'assets/al_ajo_hero.jpg'
     },
    
   ]);
