@@ -33,6 +33,18 @@ export class BotanasComponent {
       price: '0.00 (Incluido con tus bebidas)',
       description: 'Lo mejor de la comida china y todo su sabor',
       imageUrl: 'assets/al_ajo_hero.jpg'
+    },   
+    {
+      name: 'Camarones al chimichurri',
+      price: '0.00 (Incluido con tus bebidas)',
+      description: 'Camarones picositos con la salsa sirracha de la casa que tanto te gusta',
+      imageUrl: 'assets/chimichurri_hero.jpg'
+    },
+    {
+      name: 'Camarones estilo Acaponeta',
+      price: '0.00 (Incluido con tus bebidas)',
+      description: 'Camarones crujientes y picositos, para el antojo de algo diferente',
+      imageUrl: 'assets/acaponeta_hero.jpg'
     },
    
   ]);
